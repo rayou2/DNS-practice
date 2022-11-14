@@ -16,14 +16,14 @@ The purchased domain name is "ramony.tech" from get.tech.com. Create the VM and 
 
 ## Commands in the VM terminal
 
-sudo apt-get update
+* sudo apt-get update
 
-sudo apt install python3-pip
+* sudo apt install python3-pip
 
-pip3 install flask
+* pip3 install flask
 
-sudo apt install python3-flask
+* sudo apt install python3-flask
 
-git clone git-repo-link
+* git clone git-repo-link
 
-sudo python3 app.py
+* sudo python3 app.py
